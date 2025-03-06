@@ -12,16 +12,20 @@
 - 👀 **Trained eyes** in selecting the right tools and architectural patterns for your needs
 - ▶️ **Google Play** App publishing
 - 📄 Available for **flexible B2B contracts** (Fixed-term, per project, full-time, etc.)
-- 🤝 **Transparent & predictable** workflow. Every project has particular needs, but here is a general workflow we can follow:
-  - 1️⃣ We **define the scope** of the project, create task definitions and establish delivery and demo milestones
-  - 2️⃣ I **estimate the cost** for the upcoming milestone
-  - 3️⃣ While I'm working on your project, I'll regularly **update you** with my progress
-  - 4️⃣ Once we reach a milestone, you'll get a **live or pre-recorded demo** where I'll showcase the current state of the app
-  - 5️⃣ All invoices come with a **task report** document so you'll know exactly what you're paying for
-  - ℹ️ **You will own the code** I write for you at all times, so you can easily replace me in case you decide I'm not a good fit for your development needs
-  - ℹ️ I accept and embrace **scope change requests** after the initial planning, but they may come at an additional cost, depending on the extra effort needed from my side 
-  - 🔄 If you don't have a specific preference, we can use the following platforms to stay in sync:
-    - **Slack** (text messages)
-    - **Google Meet** (video calls)
-    - **Trello** (task definition and tracking).
+- 🤝 **Transparent & predictable** workflow.
+  <details>
+    <summary>Every project has particular needs, but here is a general workflow example we can follow. 🔍 Click to expand</summary>
+    
+    - 1️⃣ We **define the scope** of the project, create task definitions and establish delivery and demo milestones
+    - 2️⃣ I **estimate the development cost** for the previously defined tasks
+    - 3️⃣ While I'm working on your project, I'll regularly **update you** with my progress
+    - 4️⃣ Once we reach a milestone, you'll get a **live or pre-recorded demo** where I'll showcase the current state of the app
+    - 5️⃣ All invoices come with a **task report** document so you'll know exactly what you're paying for
+    - ℹ️ **You will own the code** I write for you at all times, so you can easily replace me in case you decide I'm not a good fit for your development needs
+    - ℹ️ I accept and embrace **scope change requests** after the initial planning, but they may come at an additional cost, depending on the extra effort needed from my side 
+    - 🔄 If you don't have a specific preference, we can use the following platforms to stay in sync:
+      - **Slack** (text messages)
+      - **Google Meet** (video calls)
+      - **Trello** (task definition and tracking).
+  </details>
 - ✉️ ➡️ [contact@radusalagean.com](mailto:contact@radusalagean.com?subject=Let%27s%20work%20together)
