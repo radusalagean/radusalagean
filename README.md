@@ -19,7 +19,7 @@
   - 4️⃣ Once we reach a milestone, you'll get a **live or pre-recorded demo** where I'll showcase the current state of the app
   - 5️⃣ All invoices come with a **task report** document so you'll know exactly what you're paying for
   - ℹ️ **You will own the code** I write for you at all times, so you can easily replace me in case you decide I'm not a good fit for your development needs
-  - ℹ️ **Scope change requests** after the initial planning are possible and accepted, but may come at an additional cost, depending on the extra effort needed from my side 
+  - ℹ️ I accept and embrace **scope change requests** after the initial planning, but they may come at an additional cost, depending on the extra effort needed from my side 
   - 🔄 If you don't have a specific preference, we can use the following platforms to stay in sync:
     - **Slack** (text messages)
     - **Google Meet** (video calls)
