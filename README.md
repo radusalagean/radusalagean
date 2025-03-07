@@ -3,7 +3,7 @@
 ![Looking for an experienced Android App Developer? I’m here to help!](https://readme-typing-svg.demolab.com?font=Noto&size=22&duration=1000&pause=600&color=4285F4&multiline=true&repeat=false&width=435&height=96&lines=Looking+for+an+experienced+;Android+App+Developer%3F;I%E2%80%99m+here+to+help!+%F0%9F%A4%9D)
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCrxoO9Y0wupReTNxmEIpIdw?style=for-the-badge&logo=youtube&label=tutorial%20views&labelColor=%23ff0000&color=%23333333&link=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLeYPyxTMnOLW7O_AZWLWHgeMIMMBYOZLu)](https://www.youtube.com/playlist?list=PLeYPyxTMnOLW7O_AZWLWHgeMIMMBYOZLu)
-[![Static Badge](https://img.shields.io/badge/Blog%20Articles%20-%20%23464342?style=for-the-badge&logo=wordpress&link=https%3A%2F%2Fradusalagean.com%2F)](https://radusalagean.com)
+[![Static Badge](https://img.shields.io/badge/Blog%20-%20%23464342?style=for-the-badge&logo=wordpress&link=https%3A%2F%2Fradusalagean.com%2F)](https://radusalagean.com)
 [![Static Badge](https://img.shields.io/badge/Projects%20I%20worked%20on%20-%20%2334A853?style=for-the-badge&logo=googleplay&link=https%3A%2F%2Fradusalagean.com%2Fportfolio)](https://radusalagean.com/portfolio)
 [![Static Badge](https://img.shields.io/badge/Connect%20on%20LinkedIn%20-%20%230a66c2?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fradu-s-55329022b%2F)](https://www.linkedin.com/in/radu-s-55329022b/)
 
